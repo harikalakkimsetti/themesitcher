@@ -1,1 +1,1 @@
-# themesitcher
+# themeswitcher
